@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+}
+
+.center-table {
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+
+td {
+    padding: 10px;
+    color: white;
+    background-color: darkgray;
+}
+
